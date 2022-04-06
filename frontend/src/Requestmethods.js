@@ -1,6 +1,6 @@
 import axios from "axios";
 const BASEURL = Backend Baseurl 
-const TOKEN =provide token;
+const TOKEN = Provide Your token;
 
 export const publicRequest = axios.create({
   baseURL: BASEURL,
