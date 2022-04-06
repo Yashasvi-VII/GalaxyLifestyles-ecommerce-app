@@ -1,1 +1,1 @@
-# GalaxyLifestyles-ecommerce-app
+# GalaxyLifestyles-MERN-ecommerce-app
