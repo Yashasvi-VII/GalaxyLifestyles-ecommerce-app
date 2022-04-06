@@ -1,0 +1,10 @@
+.image {
+  height: 250px;
+  width: 250px;
+  margin-top: 10px;
+  margin-left: 4px;
+  border-radius: 1ex;
+}
+.logo {
+  margin-top: 10px;
+}

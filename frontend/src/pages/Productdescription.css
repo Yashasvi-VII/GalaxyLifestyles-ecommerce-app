@@ -1,0 +1,7 @@
+.image {
+  width: 50%;
+  padding: 10px;
+  height: 60vh;
+  justify-content: space-between;
+  object-fit: cover;
+}

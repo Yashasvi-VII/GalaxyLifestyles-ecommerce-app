@@ -1,0 +1,17 @@
+.contain {
+  flex: 1;
+  margin: 3px;
+  height: 50vh;
+  position: relative;
+}
+.Title {
+  color: rgb(251, 251, 251);
+}
+.button {
+  border: none;
+  padding: 10px;
+  background-color: white;
+  color: gray;
+  cursor: pointer;
+  font-weight: 600;
+}

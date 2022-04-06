@@ -1,0 +1,66 @@
+.app.dark {
+  background-color: rgb(24, 24, 24);
+  color: rgb(255, 255, 255);
+
+  .chart {
+    .chartGrid {
+      stroke: rgba(255, 255, 255, 0.289);
+    }
+  }
+
+  .table {
+    background-color: rgba(46, 46, 46, 0.912);
+
+    .tableCell {
+      color: rgb(247, 247, 247);
+    }
+  }
+
+  .topbar {
+    color: rgb(17, 15, 15);
+    border-color: #333;
+    .logo {
+      color: rgb(246, 242, 242);
+    }
+  }
+
+  .sidebar {
+    background-color: rgb(24, 24, 24);
+    border-color: rgb(143, 138, 138);
+
+    .sidebarWrapper {
+      color: white;
+    }
+    hr {
+      border-color: rgb(206, 199, 199);
+    }
+
+    ul {
+      li {
+        &:hover {
+          background-color: rgb(162, 156, 156);
+        }
+
+        .icon {
+          color: rgb(237, 232, 232);
+        }
+      }
+    }
+  }
+  .userList {
+    background-color: rgb(26, 26, 26);
+    .abc {
+      color: white;
+    }
+  }
+  .product {
+    background-color: rgb(26, 26, 26);
+  }
+  .productList {
+    background-color: rgb(26, 26, 26);
+    color: white;
+    .abc {
+      color: white;
+    }
+  }
+}

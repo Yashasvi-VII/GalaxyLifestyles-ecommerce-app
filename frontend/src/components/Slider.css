@@ -1,0 +1,12 @@
+.title {
+  color: rgb(104, 97, 97);
+  font-size: 70px;
+  font-weight: 300;
+}
+.desc {
+  color: rgb(104, 97, 97);
+  margin: 50px 0px;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 3px;
+}
